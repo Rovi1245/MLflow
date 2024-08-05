@@ -1,0 +1,10 @@
+//to run the python script
+python file_name.py
+
+//MLflow requirements
+pip install mlflow
+from mlflow import MLflowClient
+
+
+//to access the MLflow UI
+mlflow ui
